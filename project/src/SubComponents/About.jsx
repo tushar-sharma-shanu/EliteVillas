@@ -8,23 +8,14 @@ const About = () => {
           <div className="content">
           <h1>ABOUT US</h1>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Temporibus
-            error sit dignissimos illum optio, numquam molestias quod! Sed?
+          At Elite Heaven we specialize in offering exceptional luxury rentals that redefine comfort and elegance. Each of our handpicked properties combines style, privacy, and world-class amenities, ensuring an unforgettable stay in some of the world’s most sought-after destinations
+          </p>
+    
+          <p>
+          Our commitment to personalized service goes beyond just providing a place to stay. From tailored concierge services to exclusive local experiences, we strive to make every moment of your journey extraordinary.
           </p>
           <p>
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi
-            voluptate vel quaerat sit repellat odio accusantium amet culpa a
-            dignissimos ab, excepturi ipsum delectus officiis, rem optio ex
-            recusandae eum.
-          </p>
-          <p>
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cupiditate
-            nihil voluptatibus accusamus minus voluptatum dolores dignissimos
-            velit nisi neque facere.
-          </p>
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio quam
-            voluptatibus necessitatibus? Ratione, omnis quo.
+          Discover the art of luxurious living with us —where your perfect escape awaits.
           </p>
           </div>
           <button>We strive to offer you best possible homes to stay!</button>

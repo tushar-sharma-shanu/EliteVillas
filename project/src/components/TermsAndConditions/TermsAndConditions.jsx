@@ -4,12 +4,12 @@ const TermsAndConditions = () => {
   return (
     <section id="termsandcond">
       <header>
-        <p>CURRENT AS OF SEP 2023</p>
+        <p>CURRENT AS OF SEP 2024</p>
         <h1>Terms & Conditions</h1>
       </header>
       <div className="content">
         <p>
-          Welcome to LUXURY RENTAL. Please read these terms and conditions
+          Welcome to Elite Heaven. Please read these terms and conditions
           carefully before using our services.
         </p>
         <p>
@@ -34,7 +34,7 @@ const TermsAndConditions = () => {
             Use of the Website
             </h5>
             <ol>
-              <li> You must be at least [age] years old to use the Website.</li>
+              <li> You must be at least [18] years old to use the Website.</li>
               <li>
                 You agree to use the Website for lawful purposes and in
                 compliance with all applicable laws and regulations.
@@ -61,8 +61,8 @@ const TermsAndConditions = () => {
             <ol>
               <li>
                 The content on the Website, including but not limited to text,
-                graphics, logos, images, and software, is the property of [Your
-                Company] and is protected by copyright, trademark, and other
+                graphics, logos, images, and software, is the property of [Elite 
+                Villa ] and is protected by copyright, trademark, and other
                 intellectual property laws.
               </li>
               <li>
@@ -76,7 +76,7 @@ const TermsAndConditions = () => {
           <li>
             <h5>Limitation of Liability</h5>
             <p>
-              To the fullest extent permitted by applicable law, [Your Company]
+              To the fullest extent permitted by applicable law, [Elite Villa]
               shall not be liable for any indirect, incidental, special,
               consequential, or punitive damages, or any loss of profits or
               revenues, whether incurred directly or indirectly, or any loss of
@@ -95,7 +95,7 @@ const TermsAndConditions = () => {
               These Terms shall be governed by and construed in accordance with
               the laws of Jurisdiction. Contact Information If you have any
               questions about these Terms, please contact us at{" "}
-              <span>luxuryvilla@gmail.com</span>.
+              <span>elitevilla@gmail.com</span>.
             </p>
           </li>
         </ul>

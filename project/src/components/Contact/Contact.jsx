@@ -6,10 +6,11 @@ const Contact = () => {
     <>
       <section id="contact">
         <h1>CONTACT Us</h1>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Error.</p>
+        <p> "We are here to make your luxury stay unforgettable. Contact our team for any inquiries or personalized assistance."</p>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi aliquid
-          similique voluptas!
+        For immediate assistance or special requests, call our 24/7 customer service
+        <br /><br />
+        Have questions or need more information? Send us an email, and we’ll respond within 24 hours. 
         </p>
         <div className="container">
           <img src="/about.jpg" alt="about" />
@@ -17,15 +18,15 @@ const Contact = () => {
               <h3>Let's connect</h3>
               <div>
                 <p>Phone</p>
-                <span>+001 1234 999</span>
+                <span>+91 8894257767</span>
               </div>
               <div>
                 <p>Email</p>
-                <span>zk@gmail.com</span>
+                <span>tusharsharma12shanu@gmail.com</span>
               </div>
               <div>
                 <p>Address</p>
-                <span>House No.123 Sector A-1</span>
+                <span>Himachal Pardesh Una (177203)</span>
               </div>
               <ul>
                 <Link to={"/facebook"} target="_blank">

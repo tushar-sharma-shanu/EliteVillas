@@ -2,8 +2,8 @@
 export const villas = [
   {
     id: 1,
-    name: "Villa Luna",
-    location: "Greece",
+    name: "Hayat Bist",
+    location: "Himachal",
     category: "Mountains",
     guests: 11,
     bedrooms: 6,
@@ -15,8 +15,8 @@ export const villas = [
   },
   {
     id: 2,
-    name: "Villa Tosco",
-    location: "Italy",
+    name: "Panora Palace",
+    location: "Dehradun",
     category: "Mountains",
     guests: 8,
     bedrooms: 8,
@@ -28,8 +28,8 @@ export const villas = [
   },
   {
     id: 3,
-    name: "Aphrodite",
-    location: "Greece",
+    name: "Antila",
+    location: "South Park",
     category: "Seaside",
     guests: 12,
     bedrooms: 6,
@@ -67,8 +67,8 @@ export const villas = [
   },
   {
     id: 6,
-    name: "Aphrodite",
-    location: "Greece",
+    name: "Apetite Viliance",
+    location: "Granice",
     category: "Seaside",
     guests: 12,
     bedrooms: 6,
@@ -80,8 +80,8 @@ export const villas = [
   },
   {
     id: 7,
-    name: "Villa Sunset",
-    location: "Italy",
+    name: "Pearls Poet",
+    location: "Istambul",
     category: "Mountains",
     guests: 15,
     bedrooms: 8,
@@ -93,8 +93,8 @@ export const villas = [
   },
   {
     id: 8,
-    name: "White Lady",
-    location: "Italy",
+    name: "Lady Lotus",
+    location: "Itanzia",
     category: "Seaside",
     guests: 25,
     bedrooms: 25,
@@ -106,8 +106,8 @@ export const villas = [
   },
   {
     id: 9,
-    name: "Thebes",
-    location: "Greece",
+    name: "Thames",
+    location: "Gujarat",
     category: "Seaside",
     guests: 5,
     bedrooms: 6,

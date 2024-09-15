@@ -11,7 +11,8 @@ const Navbar = () => {
   return (
     <>
       <nav className={navHeight ? "show nav" : "nav"}>
-        <div className="logo" onClick={()=> gotoHome()}>LUXURY RENTALS</div>
+        <div className="logo" onClick={()=> gotoHome()}>ELITEHEAVEN
+        </div>
         <ul>
           <li>
             <Link to={"/aboutus"}>ABOUT US</Link>

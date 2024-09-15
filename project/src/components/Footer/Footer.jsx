@@ -9,11 +9,9 @@ const Footer = () => {
     <>
       <footer className={isHomePage ? 'homePage_footer otherPage_footer': "otherPage_footer"}>
         <div className="container">
-          <h4>LUXURY RENTALS</h4>
+          <h4>Elite Haven</h4>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum et
-            minus voluptatibus corporis eligendi quasi iure nihil eum reiciendis
-            quod.
+          Showcase exclusive features like private pools, breathtaking views, 24/7 concierge service, etc.
           </p>
           <ul>
             <li>
@@ -29,9 +27,9 @@ const Footer = () => {
         </div>
         <div className="container">
           <h4>Connect with us</h4>
-          <p>+00 000 000 00</p>
-          <p>zk@gmail.com</p>
-          <p>© All Rights Reserved By CodeWithZeeshu.</p>
+          <p>+91 8894257767</p>
+          <p>tusharsharma12shanu@gmail.com</p>
+          <p>© All Rights Reserved By Tushar Sharma</p>
         </div>
       </footer>
     </>

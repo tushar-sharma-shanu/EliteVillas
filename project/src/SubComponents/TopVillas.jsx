@@ -12,10 +12,8 @@ const TopVillas = () => {
     <section id="topVillas">
       <h1>TOP PICK VILLAS</h1>
       <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum esse
-        consequuntur eius, sed quos, itaque earum eos dolor minima delectus
-        sequi exercitationem dolorem illo dicta provident voluptatum nihil nam.
-        Assumenda!
+      Indulge in the Ultimate Villa Experience
+      Discover our carefully selected, top-rated luxury villas that redefine elegance, comfort, and style. These exclusive properties offer the finest amenities, stunning views, and exceptional privacy for a truly unforgettable stay.
       </p>
       <div className="villasContainer">
         {villas.slice(0,3).map((element) => {
@@ -53,7 +51,7 @@ const TopVillas = () => {
                   </div>
                 </div>
                 <div className="badge">
-                  From <span>€{element.dailyRent} / Day </span>
+                  From <span>Rs.{element.dailyRent} / Day </span>
                 </div>
               </Link>
           );
